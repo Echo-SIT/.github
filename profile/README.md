@@ -12,4 +12,4 @@
 
 🧙 项目主要技术栈：后端Golang + 微信小程序taro
 
-🎯 目前正在开发ios端原生app + 鸿蒙原生app + 多端适配
+🎯 目前正在开发ios端原生app + 鸿蒙原生app + 多端适配 + EchoCampus 校园智能问答助手
